@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "Education"
+    url: /education/
+  - title: "Experience"
+    url: /experience/
+  - title: "Publications"
+    url: /publications/
+  - title: "Skills"
+    url: /skills/
+  - title: "Activities & Awards"
+    url: /activities/
+  - title: "References"
+    url: /references/
+  # - title: "About"
+  #   url: /about/
+  # - title: "Sitemap"
+  #   url: /sitemap/
